@@ -5,3 +5,8 @@ body {
 h1 {
     color: crimson;
 }
+.color {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+}
